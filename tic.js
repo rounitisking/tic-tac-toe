@@ -124,5 +124,6 @@ var reset = ()=>{
     enable_box()
     game.style.display = "block"
     game.style.display = "flex"
+    winner_txt.innerText = ""
 
 }
